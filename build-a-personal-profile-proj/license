@@ -1,0 +1,21 @@
+MIT License
+
+Copyright (c) 2026 - present, Omar Abdulaziz
+
+------------------
+
+Copy Right Notice Of External Libraries
+
+# Core Dependencies
+
+
+ExpressJS ( The MIT License ) : 
+
+    - Copyright (c) 2009-2014 TJ Holowaychuk <tj@vision-media.ca>
+    - Copyright (c) 2013-2014 Roman Shtylman <shtylman+expressjs@gmail.com>
+    - Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com
+
+
+# Dev Depencencies 
+
+nodemon - MIT License - : Copyright (c) 2010 - present, Remy Sharp, https://remysharp.com <remy@remysharp.com>
